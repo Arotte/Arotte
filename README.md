@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 🔬 As an AI researcher, I am enthusiastic about making LLM-based dialogue agents more human-like. To do so, I employ interpretability techniques and phenomena from psycholinguistics to uncover what makes language models tick in dialogue settings, then use these findings to propose potential vectors of improvement.
 
-⚙️ As a research engineer in Cambridge, I craft and train custom LLMs and LLM-based tools for the legal industry. 
+⚙️ As a research engineer in Cambridge, I craft and train custom LLMs for the legal industry. I am working on breathing life into an LLM-powered chatbot and "copilot" for lawyers that aims to provide a helping hand at every stage of a contract negotiation pipeline.
 

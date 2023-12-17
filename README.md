@@ -19,3 +19,13 @@ Here are some ideas to get you started:
 
 ⚙️ As a research engineer in Cambridge, I craft and train custom LLMs for the legal industry. I am working on breathing life into an LLM-powered chatbot and "copilot" for lawyers that aims to provide a helping hand at every stage of a contract negotiation pipeline.
 
+
+
+🐔[X/aronmolnr](https://twitter.com/aronmolnr)
+
+🤗 [HuggingFace/Arotte](https://huggingface.co/Arotte)
+
+🔗 [LinkedIn/molnaron](https://www.linkedin.com/in/molnaron/)
+
+🔬 [Google Scholar](https://scholar.google.com/citations?user=hM_Y0Z8AAAAJ&hl=en)
+
